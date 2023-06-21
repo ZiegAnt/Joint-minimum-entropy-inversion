@@ -8,4 +8,4 @@ The folders contain following Figures:
 - Result_Comparison: Figures that show a comparison of conventional smoothness-constrained inversion, standalone inversion with entropy constraints and joint inversion results
 - Synth_Data: Figures displaying synthetic models and data
 
-For more information, feel free to contact Anton Ziegon(**anton.ziegon@rwth-aachen.de**) or the GIM-Group (**mail@gim.rwth-aachen.de**) of RWTh Aachen University.
+For more information, feel free to contact Anton Ziegon(**anton.ziegon@rwth-aachen.de**) or the GIM-Group (**mail@gim.rwth-aachen.de**) of RWTH Aachen University.
