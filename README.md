@@ -7,3 +7,5 @@ The folders contain following Figures:
 - Parameter_Tests: Figures that show tests of regularization parameter $\lambda$ and smoothing factor $a$ for standalone ERT and SRT inversions for first and second-order.
 - Result_Comparison: Figures that show a comparison of conventional smoothness-constrained inversion, standalone inversion with entropy constraints and joint inversion results
 - Synth_Data: Figures displaying synthetic models and data
+
+For more information, feel free to contact Anton Ziegon(**anton.ziegon@rwth-aachen.de**) or the GIM-Group (**mail@gim.rwth-aachen.de**) of RWTh Aachen University.
